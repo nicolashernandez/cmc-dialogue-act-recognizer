@@ -1,0 +1,20 @@
+Bonjour tout le monde .
+Est -ce que quelqu'un serait disponible pour repondre à une question s' il vous plait?
+pose ta question . On est comme ça sur irc: direct
+Ah merci
+Donc je suis sous Kubuntu 15.04 que je viens juste d' installer , seulement l' écran de démarage avec le logo Kubuntu est comme qui dirait tres moche , et de plus j' ai un message d' erreure acpi ppc probe failed .
+J' ai regardé sur les forum français et Anglais et essayé deux trois trucs mais rien ne change
+Sachant que j' ai une Nvidia 9500GT et que j' ai installé les drivers
+le démarrage fonctionne ?
+Tout à fait
+à part qu' il est Moche
+ok
+J' ai modifier le fichier /etc/defaut/grub
+les pilotes nvidia propriétaires ne gèrent pas le framebuffer , c' est ce qui fait que le boot est pas joli ( et il est incompatible avec nouveau , qui est le pilote libre )
+sachant que j' ai aussi le souci avec X-org
+pour l' erreur d' acpi , je sais pas trop
+Xorg , c' est le serveur graphique . Quelque soit le pilote , c' est xorg qui gère la suite
+Ah ok
+Sinon je vais ouvrir un post sur le forum et mettre des photos de l' écran voir si il y'a une solution .
+C' est purement esthétique donc pas prioritaire .
+Merci quand meme piti
